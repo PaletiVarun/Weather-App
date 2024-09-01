@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Documents/cpp"
+		},
+		{
+			"path": "../Unit-Converter/Unit-Converter-main/UnitConverter"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "UnitConverter"
+	}
+}
